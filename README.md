@@ -1,1 +1,1 @@
-Adds CBC's Star Ratings to the Winnipeg Fringe Festival's "search by date" listings
+Chrome extension that adds the CBC's star ratings to the Winnipeg Fringe Festival's "search by date" listings
