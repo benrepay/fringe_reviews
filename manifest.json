@@ -1,0 +1,13 @@
+{
+  "name": "Fringe Ratings",
+  "version": "1",
+  "manifest_version": 2,
+  "description": "Adds CBC's Star Ratings to the Winnipeg Fringe Festival \"search by date\" listings",
+  "content_scripts": [{
+    "matches": ["http://*.winnipegfringe.com/fr_cal.aspx"],
+    "js": ["jquery-1.8.3.min.js", "review.js"]
+  }],
+  "permissions": [
+    "http://www.cbc.ca/manitoba/scene/fringe/"
+  ]
+}

@@ -1,0 +1,1 @@
+Adds CBC's Star Ratings to the Winnipeg Fringe Festival's "search by date" listings
